@@ -2,4 +2,6 @@
     <string name="app_name">FirstStep</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="text_first">First</string>
+    <string name="text_second">Second</string>
 </resources>
